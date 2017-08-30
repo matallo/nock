@@ -175,7 +175,8 @@
     "mkdirp": "^0.5.0",
     "propagate": "0.4.0",
     "qs": "^6.0.2",
-    "semver": "^5.3.0"
+    "semver": "^5.3.0",
+    "http-browserify": "matallo/http-browserify#master"
   },
   "devDependencies": {
     "async": "^2.1.1",
